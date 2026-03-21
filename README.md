@@ -16,66 +16,103 @@ CODE_ORGANIZATION: code-sena
 
 
 
-## 🧑 Sobre mí
-- 🎂 Edad: [16]
-- 📍 Ciudad: [Palermo-Huila]
-- 💬 Descripción: Soy una persona [amable, creativa y que le gustan los videojuegos.]
+<!-- ===================== -->
+<!-- 🌟 PRESENTACIÓN PERSONAL 🌟 -->
+<!-- ===================== -->
+
+# 🎮✨ ¡Hola! Soy *Kevin Eduardo* ✨🎮
+
+> 💭 "Soñando en grande y jugando aún más grande"  
 
 ---
 
-## 🎯 Mis intereses
-- 💻 Tecnología
-- 🎮 Videojuegos
-- 🎵 Música
-- 🎬 Películas y series
-- 📚 Leer
+## 🌈 🧑 Sobre mí
+╭───────────────╮  
+│ 🎂 Edad: 16  
+│ 📍 Ciudad: Palermo - Huila  
+│ 💬 Soy una persona amable, creativa y me encantan los videojuegos  
+╰───────────────╯  
 
 ---
 
-## 🎵 Música favorita
-- Artista/Banda: [Radiohead]
-- Género: [Pop, Rock, etc.]
-- Canción favorita: [Creep]
+## 🎯 🚀 Mis intereses
+💡 Cosas que me gustan:
+
+- 💻 Tecnología  
+- 🎮 Videojuegos  
+- 🎵 Música  
+- 🎬 Películas y series  
+- 📚 Leer  
 
 ---
 
-## 🎬 Películas o series favoritas
-1. [Serie The Walking Death]
-2. [Película Duna 1 y 2]
-3. [Película The Maze Run]
+## 🎧 🎵 Música favorita
+> 🎶 Mi estilo y energía
+
+- 🎤 Artista favorito: *Radiohead*  
+- 🎼 Género: Rock / Alternativo  
+- 🔥 Canción favorita: Creep  
 
 ---
 
-## 🎮 Videojuegos favoritos
-- 🎯 [Minecraft]
-- 🕹️ [Free Fire]
-- 👾 [Clash Royale]
+## 🎬 🍿 Películas y series
+✨ Mis favoritas:
+
+- 🧟 *The Walking Dead*  
+- 🌌 *Duna 1 y 2*  
+- 🏃 *Maze Runner*  
 
 ---
 
-## 🍕 Comida favorita
-- 🍔 [Sancocho]
-- 🍕 [Arros con pollo]
-- 🍣 [Hamburguesa]
+## 🎮 🕹️ Videojuegos favoritos
+💥 Donde paso mi tiempo:
+
+- 👾 Minecraft  
+- 🔥 Free Fire  
+- 🧠 Clash Royale  
 
 ---
 
-## 🌈 Hobbies
-- ✍️ [Escuchar musica]
-- 🏃 [Jugar]
-- 🎨 [Ser jugador profesional en minecraft]
+## 🍔 😋 Comida favorita
+✨ Lo que más me gusta comer:
+
+- 🍲 Sancocho  
+- 🍗 Arroz con pollo  
+- 🍔 Hamburguesa  
 
 ---
 
-## 🚀 Metas o sueños
-- 🌟 [Ser jugador profecional de MC]
-- 🌟 [Ser un buen programador]
-- 🌟 [Sacar mi familia a delante]
+## 🌟 🎨 Hobbies
+> 💡 Lo que hago en mi tiempo libre
+
+- 🎧 Escuchar música  
+- 🎮 Jugar videojuegos  
+- 🏆 Mejorar para ser jugador profesional en Minecraft  
 
 ---
 
-## 📫 Contacto
-- 📧 Email: [kevineduardoarguellosolano@gmail.com]
-- 📱 Redes: [Tiktok:@kevin.eduardo.arg, Discord:Kevin Eduardo Arguello solano.]
+## 🚀 💭 Metas y sueños
+✨ Lo que quiero lograr:
+
+- 🎮 Ser jugador profesional de Minecraft  
+- 💻 Ser un buen programador  
+- ❤️ Sacar a mi familia adelante  
 
 ---
+
+## 📲 📫 Contacto
+📡 Conecta conmigo:
+
+- 📧 Email: kevineduardoarguellosolano@gmail.com  
+- 🎵 TikTok: @kevin.eduardo.arg  
+- 💬 Discord: Kevin Eduardo Arguello Solano  
+
+---
+
+<div align="center">
+
+💙✨ Gracias por ver mi presentación ✨💙  
+
+🔥 Never give up 🔥  
+
+</div>

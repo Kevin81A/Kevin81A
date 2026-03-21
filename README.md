@@ -16,65 +16,74 @@ CODE_ORGANIZATION: code-sena
 
 
 
-<!-- ===================== -->
-<!-- 🌟 PRESENTACIÓN PERSONAL 🌟 -->
-<!-- ===================== -->
+<!-- =============================== -->
+<!-- 🚀✨ PRESENTACIÓN NIVEL PRO ✨🚀 -->
+<!-- =============================== -->
 
-# 🎮✨ ¡Hola! Soy *Kevin Eduardo* ✨🎮
+<h1 align="center">🎮✨ Kevin Eduardo ✨🎮</h1>
 
-> 💭 "Soñando en grande y jugando aún más grande"  
+<p align="center">
+💭 <i>"Soñando en grande, jugando en serio"</i> 💭
+</p>
 
----
-
-## 🌈 🧑 Sobre mí
-╭───────────────╮  
-│ 🎂 Edad: 16  
-│ 📍 Ciudad: Palermo - Huila  
-│ 💬 Soy una persona amable, creativa y me encantan los videojuegos  
-╰───────────────╯  
+<p align="center">
+🔥 Gamer | 💻 Futuro Programador | 🚀 Soñador
+</p>
 
 ---
 
-## 🎯 🚀 Mis intereses
-💡 Cosas que me gustan:
-
-- 💻 Tecnología  
-- 🎮 Videojuegos  
-- 🎵 Música  
-- 🎬 Películas y series  
-- 📚 Leer  
+## 🧑‍💻 ┊ Sobre mí  
+╔══════════════════════════════╗  
+║ 🎂 Edad: 16                 ║  
+║ 📍 Palermo - Huila          ║  
+║ 💬 Amable, creativo y gamer ║  
+╚══════════════════════════════╝  
 
 ---
 
-## 🎧 🎵 Música favorita
-> 🎶 Mi estilo y energía
+## 🎯 ┊ Intereses  
+<div align="center">
 
-- 🎤 Artista favorito: *Radiohead*  
-- 🎼 Género: Rock / Alternativo  
-- 🔥 Canción favorita: Creep  
+💻 Tecnología  │ 🎮 Videojuegos  │ 🎵 Música  
+🎬 Películas  │ 📚 Leer  
 
----
-
-## 🎬 🍿 Películas y series
-✨ Mis favoritas:
-
-- 🧟 *The Walking Dead*  
-- 🌌 *Duna 1 y 2*  
-- 🏃 *Maze Runner*  
+</div>
 
 ---
 
-## 🎮 🕹️ Videojuegos favoritos
-💥 Donde paso mi tiempo:
+## 🎧 ┊ Música  
+🎵 La música que define mi mundo:
 
-- 👾 Minecraft  
-- 🔥 Free Fire  
-- 🧠 Clash Royale  
+- 🎤 *Radiohead*  
+- 🎼 Rock / Alternativo  
+- 🔥 Creep  
 
 ---
 
-## 🍔 😋 Comida favorita
-✨ Lo que más me gusta comer:
+## 🎬 ┊ Películas & Series  
+🍿 Mis favoritas:
+
+> 🧟 The Walking Dead  
+> 🌌 Duna (Parte 1 y 2)  
+> 🏃 Maze Runner  
+
+---
+
+## 🎮 ┊ Videojuegos  
+⚡ Donde empieza la acción:
+
+<div align="center">
+
+👾 *Minecraft*  
+🔥 *Free Fire*  
+🧠 *Clash Royale*  
+
+</div>
+
+---
+
+## 🍔 ┊ Comida favorita  
+😋 Mis debilidades:
 
 - 🍲 Sancocho  
 - 🍗 Arroz con pollo  
@@ -82,37 +91,43 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
-## 🌟 🎨 Hobbies
-> 💡 Lo que hago en mi tiempo libre
+## 🌟 ┊ Hobbies  
+🎨 Lo que me gusta hacer:
 
 - 🎧 Escuchar música  
-- 🎮 Jugar videojuegos  
-- 🏆 Mejorar para ser jugador profesional en Minecraft  
+- 🎮 Jugar  
+- 🏆 Entrenar para ser pro en Minecraft  
 
 ---
 
-## 🚀 💭 Metas y sueños
-✨ Lo que quiero lograr:
+## 🚀 ┊ Metas  
+💭 Mi camino:
 
-- 🎮 Ser jugador profesional de Minecraft  
-- 💻 Ser un buen programador  
-- ❤️ Sacar a mi familia adelante  
-
----
-
-## 📲 📫 Contacto
-📡 Conecta conmigo:
-
-- 📧 Email: kevineduardoarguellosolano@gmail.com  
-- 🎵 TikTok: @kevin.eduardo.arg  
-- 💬 Discord: Kevin Eduardo Arguello Solano  
+╭───────────────╮  
+│ 🎮 Pro en Minecraft  
+│ 💻 Gran programador  
+│ ❤️ Ayudar a mi familia  
+╰───────────────╯  
 
 ---
 
+## 📲 ┊ Contacto  
 <div align="center">
 
-💙✨ Gracias por ver mi presentación ✨💙  
+📧 kevineduardoarguellosolano@gmail.com  
 
-🔥 Never give up 🔥  
+🎵 TikTok: *@kevin.eduardo.arg*  
+
+💬 Discord: *Kevin Eduardo Arguello Solano*  
 
 </div>
+
+---
+
+<p align="center">
+💙✨ Gracias por visitar mi mundo ✨💙  
+</p>
+
+<p align="center">
+🔥 <b>Never give up</b> 🔥  
+</p>

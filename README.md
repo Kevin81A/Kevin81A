@@ -14,7 +14,7 @@ CODE_ORGANIZATION: code-sena
 </p>
 <h2 align="center">ADSO-3413974</h2>
 
-# 👋 Hola, soy [Kevin Eduardo Arguello Solano]
+
 
 ## 🧑 Sobre mí
 - 🎂 Edad: [16]

@@ -14,17 +14,68 @@ CODE_ORGANIZATION: code-sena
 </p>
 <h2 align="center">ADSO-3413974</h2>
 
-<!--
-**Kevin81A/Kevin81A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy [Kevin Eduardo Arguello Solano]
 
-Here are some ideas to get you started:
+## 🧑 Sobre mí
+- 🎂 Edad: [16]
+- 📍 Ciudad: [Palermo-Huila]
+- 💬 Descripción: Soy una persona [amable, creativa y que le gustan los videojuegos.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Mis intereses
+- 💻 Tecnología
+- 🎮 Videojuegos
+- 🎵 Música
+- 🎬 Películas y series
+- 📚 Leer
+
+---
+
+## 🎵 Música favorita
+- Artista/Banda: [Radiohead]
+- Género: [Pop, Rock, etc.]
+- Canción favorita: [Creep]
+
+---
+
+## 🎬 Películas o series favoritas
+1. [Serie The Walking Death]
+2. [Película Duna 1 y 2]
+3. [Película The Maze Run]
+
+---
+
+## 🎮 Videojuegos favoritos
+- 🎯 [Minecraft]
+- 🕹️ [Free Fire]
+- 👾 [Clash Royale]
+
+---
+
+## 🍕 Comida favorita
+- 🍔 [Sancocho]
+- 🍕 [Arros con pollo]
+- 🍣 [Hamburguesa]
+
+---
+
+## 🌈 Hobbies
+- ✍️ [Escuchar musica]
+- 🏃 [Jugar]
+- 🎨 [Ser jugador profesional en minecraft]
+
+---
+
+## 🚀 Metas o sueños
+- 🌟 [Ser jugador profecional de MC]
+- 🌟 [Ser un buen programador]
+- 🌟 [Sacar mi familia a delante]
+
+---
+
+## 📫 Contacto
+- 📧 Email: [kevineduardoarguellosolano@gmail.com]
+- 📱 Redes: [Tiktok:@kevin.eduardo.arg, Discord:Kevin Eduardo Arguello solano.]
+
+---
